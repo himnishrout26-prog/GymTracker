@@ -97,4 +97,4 @@ Exercise data is enriched from [wger.de](https://wger.de/en/software/api), an op
 
 ## License
 
-Personal project — license not yet decided. If you plan to make this repo public and want others to be able to use or contribute to the code, consider adding an [MIT](https://choosealicense.com/licenses/mit/) or similar permissive license via GitHub's "Add file → Create new file → LICENSE" template picker.
+Personal project — license not yet decided.
