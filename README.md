@@ -81,7 +81,6 @@ Shipped:
 - [x] wger.de exercise library integration
 
 Planned:
-- [ ] **Study / productivity tracker module** — a second tracking domain alongside gym sessions, logging focused work or study time, with its own consistency and productivity analysis, so the app becomes a general personal-improvement tracker rather than gym-only
 - [ ] **Exercise form videos** — short reference clips per exercise (likely sourced or linked from an open video/exercise database) so new lifters can check their form, alongside future in-app form cues or checklists
 - [ ] HealthKit integration (auto-import body weight, active energy)
 - [ ] Apple Watch companion app for logging sets mid-workout
